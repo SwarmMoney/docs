@@ -13,7 +13,7 @@ in our case we use (2.5) or (150%) as collateral.
 ## How to redeem my bitcoins?
 The guarantees can be redeemed when the borrower or the current owner of the tokens burns them, the borrower has the right to redeem 150% of the guarantees, while the non-borrower can only redeem 100% of the value in bitcoin referring to the token.
 
-## Can I exchange these stablecoin assets for fiat currency like (BRL)?
+## Can I exchange these stablecoin assets for fiat currency like (USD)?
 Yes you can with other people in a P2P market, or using us.
 
 ## Is it custodial?
